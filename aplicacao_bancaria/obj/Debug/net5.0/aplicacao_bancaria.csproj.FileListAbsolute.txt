@@ -1,0 +1,16 @@
+/home/lucas/Dropbox/Programacao/4_Localiza_C#/4_aplicacao_bancaria/aplicacao_bancaria/bin/Debug/net5.0/aplicacao_bancaria
+/home/lucas/Dropbox/Programacao/4_Localiza_C#/4_aplicacao_bancaria/aplicacao_bancaria/bin/Debug/net5.0/aplicacao_bancaria.deps.json
+/home/lucas/Dropbox/Programacao/4_Localiza_C#/4_aplicacao_bancaria/aplicacao_bancaria/bin/Debug/net5.0/aplicacao_bancaria.runtimeconfig.json
+/home/lucas/Dropbox/Programacao/4_Localiza_C#/4_aplicacao_bancaria/aplicacao_bancaria/bin/Debug/net5.0/aplicacao_bancaria.runtimeconfig.dev.json
+/home/lucas/Dropbox/Programacao/4_Localiza_C#/4_aplicacao_bancaria/aplicacao_bancaria/bin/Debug/net5.0/aplicacao_bancaria.dll
+/home/lucas/Dropbox/Programacao/4_Localiza_C#/4_aplicacao_bancaria/aplicacao_bancaria/bin/Debug/net5.0/ref/aplicacao_bancaria.dll
+/home/lucas/Dropbox/Programacao/4_Localiza_C#/4_aplicacao_bancaria/aplicacao_bancaria/bin/Debug/net5.0/aplicacao_bancaria.pdb
+/home/lucas/Dropbox/Programacao/4_Localiza_C#/4_aplicacao_bancaria/aplicacao_bancaria/obj/Debug/net5.0/aplicacao_bancaria.csprojAssemblyReference.cache
+/home/lucas/Dropbox/Programacao/4_Localiza_C#/4_aplicacao_bancaria/aplicacao_bancaria/obj/Debug/net5.0/aplicacao_bancaria.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas/Dropbox/Programacao/4_Localiza_C#/4_aplicacao_bancaria/aplicacao_bancaria/obj/Debug/net5.0/aplicacao_bancaria.AssemblyInfoInputs.cache
+/home/lucas/Dropbox/Programacao/4_Localiza_C#/4_aplicacao_bancaria/aplicacao_bancaria/obj/Debug/net5.0/aplicacao_bancaria.AssemblyInfo.cs
+/home/lucas/Dropbox/Programacao/4_Localiza_C#/4_aplicacao_bancaria/aplicacao_bancaria/obj/Debug/net5.0/aplicacao_bancaria.csproj.CoreCompileInputs.cache
+/home/lucas/Dropbox/Programacao/4_Localiza_C#/4_aplicacao_bancaria/aplicacao_bancaria/obj/Debug/net5.0/aplicacao_bancaria.dll
+/home/lucas/Dropbox/Programacao/4_Localiza_C#/4_aplicacao_bancaria/aplicacao_bancaria/obj/Debug/net5.0/ref/aplicacao_bancaria.dll
+/home/lucas/Dropbox/Programacao/4_Localiza_C#/4_aplicacao_bancaria/aplicacao_bancaria/obj/Debug/net5.0/aplicacao_bancaria.pdb
+/home/lucas/Dropbox/Programacao/4_Localiza_C#/4_aplicacao_bancaria/aplicacao_bancaria/obj/Debug/net5.0/aplicacao_bancaria.genruntimeconfig.cache
